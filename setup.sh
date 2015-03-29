@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 ## Check for root and docker and required files
 
